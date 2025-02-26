@@ -15,4 +15,4 @@ Este proyecto consiste en un análisis estadístico de la base de datos de Poké
 1. Asegúrate de tener R y RStudio instalados en tu computadora. Puedes descargarlos desde [CRAN](https://cran.r-project.org/) y [RStudio](https://www.rstudio.com/products/rstudio/download/).  
 2. Crea un nuevo proyecto en RStudio y clone este repositorio en tu espacio de trabajo usando:  
    ```r  
-   usethis::create_from_github("tu_usuario/nombre_del_repositorio")  
+   usethis::create_from_github("vehiller)/analisis-estadistico-El-Poke")  
