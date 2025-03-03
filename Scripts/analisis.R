@@ -116,7 +116,7 @@ system("git config --global user.name 'vehiller'")
 system("git config --global user.email 'vehiller@gmail.com'")
 
 
-
+View(top_habilidades_por_tipo)
 
 
 
